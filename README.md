@@ -34,7 +34,7 @@ To earn this certification, you'll build **5 APIs** and **5 full stack apps**.
 We will accept solutions implemented in _any_ programming language, as long as both a live demo and the source code are publicly accessible.
 
 ##### 4. Full Stack Certification
-The fourth section is where you'll get **real-world experience** by working on projects for **nonprofits**.
+The fourth section is where you'll get **real-world experience** by volunteering on projects for **nonprofits**.
 We'll pair you with another camper, an agile project manager, and a stakeholder from a nonprofit organization. Together, you'll plan, build and maintain apps that help that nonprofit carry out its mission more effectively.
 
 For this certification, you'll work on **two projects from scratch** and then **maintain/upgrade two existing projects**.
